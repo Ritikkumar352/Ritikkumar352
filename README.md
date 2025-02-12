@@ -9,3 +9,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritikkumar352&show_icons=true&theme=dark)
 
 🚀 **Fun Fact:** I love **coding & coffee ☕**  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikkumar352&layout=compact&theme=radical)
+
