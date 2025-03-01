@@ -8,19 +8,19 @@
 - 🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/ritikkumar352/) |
 
 <!-- [Twitter](https://twitter.com/yourhandle) -->  
-
+<!--
 📊 **My GitHub Stats:**  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritikkumar352&show_icons=true&theme=dark)
-
-🚀 **Fun Fact:** I love **coding & coffee ☕**  
+-->
+🚀 **Fun Fact:** I love **coding, Exploring new Tech and Gaming **  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikkumar352&layout=compact&theme=radical)
 
 # Graph  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ritikkumar352&theme=github-dark)
-
+<!--
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ritikkumar352&theme=darkhub&margin-w=15)
-
+-->
 ### Connect with me 🌍  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ritikkumar352/)  
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://twitter.com/yourhandle)
