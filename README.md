@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Ritik Kumar!
-### 🚀 Developer | Open Source Enthusiast | Tech Lover  
+### 🚀 Developer | Tech Lover  
 
-![Current Date](https://img.shields.io/badge/Date-Today's_Date-blue?style=for-the-badge)
-
+<!--![Current Date](https://img.shields.io/badge/Date-Today's_Date-blue?style=for-the-badge)
+-->
 - 🌱 I’m currently learning **Spring Boot, React, PostgreSQL, and Authentication Systems**  
 - 💬 Ask me about **Java, Spring Boot, React, and Backend Development**  
 - 🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/ritikkumar352/) |
@@ -23,14 +23,15 @@
 -->
 ### Connect with me 🌍  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ritikkumar352/)  
+<!--
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://twitter.com/yourhandle)
 
+![3D Contribution Graph](https://github.com/ritikkumar352/ritikkumar352/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 ![Snake animation](https://github.com/ritikkumar352/ritikkumar352/blob/output/github-contribution-grid-snake.svg)
-
+-->
 ![Profile Views](https://komarev.com/ghpvc/?username=ritikkumar352&color=blue&style=flat-square)
 
 ![GitHub Stars](https://img.shields.io/github/stars/ritikkumar352?style=social)  
 ![GitHub Followers](https://img.shields.io/github/followers/ritikkumar352?style=social)  
 
-![3D Contribution Graph](https://github.com/ritikkumar352/ritikkumar352/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 
