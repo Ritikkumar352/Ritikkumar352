@@ -5,7 +5,9 @@
 
 - 🌱 I’m currently learning **Spring Boot, React, PostgreSQL, and Authentication Systems**  
 - 💬 Ask me about **Java, Spring Boot, React, and Backend Development**  
-- 🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/ritikkumar352/) | [Twitter](https://twitter.com/yourhandle)  
+- 🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/ritikkumar352/) |
+
+<!-- [Twitter](https://twitter.com/yourhandle) -->  
 
 📊 **My GitHub Stats:**  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritikkumar352&show_icons=true&theme=dark)
