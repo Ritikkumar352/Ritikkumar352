@@ -4,7 +4,7 @@
 ![Current Date](https://img.shields.io/badge/Date-Today's_Date-blue?style=for-the-badge)
 
 - 🌱 I’m currently learning **Spring Boot, React, PostgreSQL, and Authentication Systems**  
-- 💬 Ask me about **Java, Spring Boot, React, MERN Stack, and Backend Development**  
+- 💬 Ask me about **Java, Spring Boot, React, and Backend Development**  
 - 🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/ritikkumar352/) | [Twitter](https://twitter.com/yourhandle)  
 
 📊 **My GitHub Stats:**  
