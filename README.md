@@ -12,7 +12,7 @@
 📊 **My GitHub Stats:**  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritikkumar352&show_icons=true&theme=dark)
 -->
-🚀 **Fun Fact:** I love **coding, Exploring new Tech and Gaming **  
+🚀 **Fun Fact:** I love coding, Exploring new Tech and Gaming 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikkumar352&layout=compact&theme=radical)
 
