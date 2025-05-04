@@ -3,7 +3,8 @@
 
 <!--![Current Date](https://img.shields.io/badge/Date-Today's_Date-blue?style=for-the-badge)
 -->
-- 🌱 I’m currently learning **Spring Boot, React, PostgreSQL, and Authentication Systems**  
+- 🌱 I’m currently learning **Spring Boot, React, PostgreSQL, and Authentication Systems**
+- [![wakatime](https://wakatime.com/badge/user/d1f5352b-0593-4ba3-a37f-b91fd3e207d8/project/2e721ed1-3c42-4b72-8bf3-24a476fae3de.svg)](https://wakatime.com/badge/user/d1f5352b-0593-4ba3-a37f-b91fd3e207d8/project/2e721ed1-3c42-4b72-8bf3-24a476fae3de)
 - 💬 Ask me about **Java, Spring Boot, React, and Backend Development**  
 - 🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/ritikkumar352/) |
 
