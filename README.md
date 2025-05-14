@@ -15,7 +15,6 @@
 -->
 🚀 **Fun Fact:** I love coding, Exploring new Tech and Gaming 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikkumar352&layout=compact&theme=radical)
 
 # Graph  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ritikkumar352&theme=github-dark)
