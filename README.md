@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Ritik Kumar!
-### 🚀 Developer | Tech Lover  
+### 🚀 Developer 
 
 <!--![Current Date](https://img.shields.io/badge/Date-Today's_Date-blue?style=for-the-badge)
 -->
@@ -13,9 +13,6 @@
 📊 **My GitHub Stats:**  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritikkumar352&show_icons=true&theme=dark)
 -->
-🚀 **Fun Fact:** I love coding, Exploring new Tech and Gaming 
-
-
 # Graph  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ritikkumar352&theme=github-dark)
 <!--
