@@ -1,47 +1,30 @@
-# Hii !! 👋 I'm Ritik Kumar
+# Hi there 👋 I'm Ritik Kumar
 
-Software Engineer passionate about backend systems, cloud technologies, and scalable applications.
+**Software Engineer** passionate about building scalable backend systems, cloud-native applications, and modern web platforms.
 
-## 🛠 Tech Stack
+## 🚀 Tech Stack
 
-**Languages**
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,ts,php,sql" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,php,spring,react,postgres,mysql,redis,docker,aws,gcp,linux,nginx,githubactions,cloudflare,git" />
 </p>
 
-**Backend**
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,postgres,mysql,redis" />
-</p>
-
-**Frontend**
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind" />
-</p>
-
-**Cloud & DevOps**
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,nginx,githubactions,cloudflare,git" />
-</p>
-
-**Tools**
-
-`REST APIs` • `Spring Security` • `Tolgee` • `FFmpeg`
+**Also worked with:** `Tolgee` • `FFmpeg` • `Spring Security` • `REST APIs`
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
-![](https://github-readme-stats.vercel.app/api?username=ritikkumar352&show_icons=true&hide_border=true&rank_icon=github)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikkumar352&layout=compact&hide_border=true)
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ritikkumar352&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikkumar352&layout=compact&hide_border=true&langs_count=8" />
+</p>
 
 ---
 
-## 📫 Connect
+## 🤝 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ritikkumar352)
+<p>
+  <a href="https://www.linkedin.com/in/ritikkumar352/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
