@@ -1,29 +1,36 @@
-# Hi there 👋 I'm Ritik Kumar
+# Hii !! 👋 I'm Ritik Kumar
 
-Backend Software Engineer passionate about building scalable applications, cloud-native services, and modern web platforms.
+Software Engineer passionate about backend systems, cloud technologies, and scalable applications.
 
-## 💻 Tech Stack
+## 🛠 Tech Stack
+
+**Languages**
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,ts,php,sql" />
+</p>
 
 **Backend**
-- Java
-- Spring Boot
-- Spring Security
-- REST APIs
-- PostgreSQL
-- MySQL
-- Redis
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,postgres,mysql,redis" />
+</p>
 
 **Frontend**
-- React
-- TypeScript
-- Tailwind CSS
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind" />
+</p>
 
 **Cloud & DevOps**
-- AWS (EC2, S3, IAM)
-- Docker
-- Nginx
-- GitHub Actions
-- Cloudflare
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,nginx,githubactions,cloudflare,git" />
+</p>
+
+**Tools**
+
+`REST APIs` • `Spring Security` • `Tolgee` • `FFmpeg`
 
 ---
 
@@ -31,26 +38,10 @@ Backend Software Engineer passionate about building scalable applications, cloud
 
 ![](https://github-readme-stats.vercel.app/api?username=ritikkumar352&show_icons=true&hide_border=true&rank_icon=github)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikkumar352&layout=compact&hide_border=true&langs_count=8)
-
----
-
-## ☁️ Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions,cloudflare" />
-</p>
-
----
-
-## 🛠 Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,react,ts,postgres,mysql,redis,git" />
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikkumar352&layout=compact&hide_border=true)
 
 ---
 
 ## 📫 Connect
 
-- LinkedIn: https://www.linkedin.com/in/ritikkumar352
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ritikkumar352)
