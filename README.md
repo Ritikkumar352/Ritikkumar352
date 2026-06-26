@@ -5,7 +5,7 @@
 ## 🚀 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,php,spring,react,postgres,mysql,redis,docker,aws,gcp,linux,nginx,githubactions,cloudflare,git" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,postgres,mysql,redis,docker,aws,gcp,linux,nginx,githubactions,cloudflare,git,js,php" />
 </p>
 
 <p align="left">
