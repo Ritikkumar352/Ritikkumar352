@@ -1,34 +1,56 @@
-# 👋 Hi, I'm Ritik Kumar!
-### 🚀 Developer 
+# Hi there 👋 I'm Ritik Kumar
 
-<!--![Current Date](https://img.shields.io/badge/Date-Today's_Date-blue?style=for-the-badge)
--->
-- 🌱 I’m currently learning **Spring Boot, React, PostgreSQL, and Authentication Systems**
+Backend Software Engineer passionate about building scalable applications, cloud-native services, and modern web platforms.
 
-- 💬 Ask me about **Java, Spring Boot, React, and Backend Development**  
-- 🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/ritikkumar352/) |
+## 💻 Tech Stack
 
-<!-- [Twitter](https://twitter.com/yourhandle) -->  
-<!--
-📊 **My GitHub Stats:**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritikkumar352&show_icons=true&theme=dark)
--->
-# Graph  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ritikkumar352&theme=github-dark)
-<!--
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ritikkumar352&theme=darkhub&margin-w=15)
--->
-### Connect with me 🌍  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ritikkumar352/)  
-<!--
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://twitter.com/yourhandle)
+**Backend**
+- Java
+- Spring Boot
+- Spring Security
+- REST APIs
+- PostgreSQL
+- MySQL
+- Redis
 
-![3D Contribution Graph](https://github.com/ritikkumar352/ritikkumar352/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
-![Snake animation](https://github.com/ritikkumar352/ritikkumar352/blob/output/github-contribution-grid-snake.svg)
--->
-![Profile Views](https://komarev.com/ghpvc/?username=ritikkumar352&color=blue&style=flat-square)
+**Frontend**
+- React
+- TypeScript
+- Tailwind CSS
 
-![GitHub Stars](https://img.shields.io/github/stars/ritikkumar352?style=social)  
-![GitHub Followers](https://img.shields.io/github/followers/ritikkumar352?style=social)  
+**Cloud & DevOps**
+- AWS (EC2, S3, IAM)
+- Docker
+- Nginx
+- GitHub Actions
+- Cloudflare
 
+---
 
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=ritikkumar352&show_icons=true&hide_border=true&rank_icon=github)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikkumar352&layout=compact&hide_border=true&langs_count=8)
+
+---
+
+## ☁️ Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions,cloudflare" />
+</p>
+
+---
+
+## 🛠 Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,react,ts,postgres,mysql,redis,git" />
+</p>
+
+---
+
+## 📫 Connect
+
+- LinkedIn: https://www.linkedin.com/in/ritikkumar352
